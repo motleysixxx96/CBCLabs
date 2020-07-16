@@ -113,7 +113,7 @@
     "immutable": "4.0.0-rc.9",
     "invariant": "2.2.2",
     "ip": "1.1.5",
-    "lodash": "4.17.5",
+    "lodash": "4.17.19",
     "minimist": "1.2.0",
     "react": "16.2.0",
     "react-dom": "16.2.0",
